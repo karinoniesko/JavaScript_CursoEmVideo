@@ -43,6 +43,8 @@ function verificar() {
                 img.setAttribute('src', 'assets/7idosof.png')
             }
         }
-        res.innerHTML = `Detectamos ${genero} de ${idade} anos.`
+        res.style.textAlign = 'center'
+        res.innerHTML = `<p>Detectamos ${genero} de ${idade} anos.</p>`
+        res.appendChild(img)
     }
 }
