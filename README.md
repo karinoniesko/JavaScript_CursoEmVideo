@@ -1,5 +1,5 @@
 # JavaScript_CursoEmVideo_VerificadorDeIdade
-Projeto desenvolvido no curso "JavaScript e ECMAScript para Iniciantes" da Curso em Vídeo, orientado pelo professor Gustavo Guabnabara.
+Projeto desenvolvido no curso "JavaScript e ECMAScript para Iniciantes" da Curso em Vídeo, orientado pelo professor Gustavo Guanabara.
 
 ![Captura de tela de 2023-05-25 15-21-30](https://github.com/karinoniesko/JavaScript_CursoEmVideo_VerificadorDeIdade/assets/126200406/c4e4fa94-b1ad-4e23-9981-10772affc094)
 
